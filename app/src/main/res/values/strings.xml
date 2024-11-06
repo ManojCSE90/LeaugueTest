@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LeagueTest</string>
+    <string name="api_key">e4f9e61f6ffd66639d33d3dde7e3159b</string>
+    <string name="something_went_wrong">something went wrong.</string>
+    <string name="posts">Posts</string>
+</resources>
